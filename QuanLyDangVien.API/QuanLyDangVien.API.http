@@ -1,0 +1,6 @@
+@QuanLyDangVien.API_HostAddress = http://localhost:5018
+
+GET {{QuanLyDangVien.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
